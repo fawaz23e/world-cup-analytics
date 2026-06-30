@@ -1,0 +1,24 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+.matplotlib_cache/
+
+# Large/local artifacts not meant for version control
+*.pbix
+*.log
+*.twbr
+work_db.twb

@@ -1,0 +1,979 @@
+<?xml version='1.0' encoding='utf-8' ?>
+        <workbook locale='en_US' source-build='0.0.0 (0000.0.0.0)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+          <preferences>
+            <preference name='ui.encoding.shelf.height' value='24' />
+            <preference name='ui.shelf.height' value='26' />
+          </preferences>
+          <style-theme name='smooth' />
+          <datasources>
+
+    <datasource caption='Matches' inline='true' name='kpi_matches' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='kpi_matches' username='tableau_internal_user'>
+        <relation name='kpi_matches' table='[Extract].[kpi_matches]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[kpi_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column aggregation='Avg' datatype='real' name='[kpi_value]' role='measure' type='quantitative' />
+<column datatype='integer' name='[sort_order]' role='dimension' type='ordinal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+    <datasource caption='Teams' inline='true' name='kpi_teams' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='kpi_teams' username='tableau_internal_user'>
+        <relation name='kpi_teams' table='[Extract].[kpi_teams]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[kpi_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column aggregation='Avg' datatype='real' name='[kpi_value]' role='measure' type='quantitative' />
+<column datatype='integer' name='[sort_order]' role='dimension' type='ordinal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+    <datasource caption='WC Matches' inline='true' name='kpi_wc_matches' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='kpi_world_cup_matches' username='tableau_internal_user'>
+        <relation name='kpi_world_cup_matches' table='[Extract].[kpi_world_cup_matches]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[kpi_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column aggregation='Avg' datatype='real' name='[kpi_value]' role='measure' type='quantitative' />
+<column datatype='integer' name='[sort_order]' role='dimension' type='ordinal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+    <datasource caption='Goals' inline='true' name='kpi_goals' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='kpi_goals' username='tableau_internal_user'>
+        <relation name='kpi_goals' table='[Extract].[kpi_goals]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[kpi_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column aggregation='Avg' datatype='real' name='[kpi_value]' role='measure' type='quantitative' />
+<column datatype='integer' name='[sort_order]' role='dimension' type='ordinal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+    <datasource caption='Top Elo' inline='true' name='kpi_top_elo' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='kpi_top_elo_team' username='tableau_internal_user'>
+        <relation name='kpi_top_elo_team' table='[Extract].[kpi_top_elo_team]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[kpi_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column aggregation='Avg' datatype='real' name='[kpi_value]' role='measure' type='quantitative' />
+<column datatype='integer' name='[sort_order]' role='dimension' type='ordinal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+    <datasource caption='Top Scorer' inline='true' name='kpi_top_scorer' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='kpi_top_scorer' username='tableau_internal_user'>
+        <relation name='kpi_top_scorer' table='[Extract].[kpi_top_scorer]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[kpi_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column aggregation='Avg' datatype='real' name='[kpi_value]' role='measure' type='quantitative' />
+<column datatype='integer' name='[sort_order]' role='dimension' type='ordinal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+    <datasource caption='Top Scorers' inline='true' name='scorers' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='top_scorers_top_10' username='tableau_internal_user'>
+        <relation name='top_scorers_top_10' table='[Extract].[top_scorers_top_10]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[scorer_rank]' role='dimension' type='ordinal' />
+<column datatype='string' name='[scorer_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[scorer]' role='dimension' type='nominal' />
+<column datatype='string' name='[team]' role='dimension' type='nominal' />
+<column aggregation='Sum' caption='Goals' datatype='integer' name='[goals]' role='measure' type='quantitative' />
+<column aggregation='Sum' datatype='integer' name='[penalties]' role='measure' type='quantitative' />
+<column datatype='date' name='[latest_goal_date]' role='dimension' type='ordinal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+    <datasource caption='Elo Top 10' inline='true' name='elo' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='elo_top_10' username='tableau_internal_user'>
+        <relation name='elo_top_10' table='[Extract].[elo_top_10]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[elo_rank]' role='dimension' type='ordinal' />
+<column datatype='string' name='[elo_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[team]' role='dimension' type='nominal' />
+<column aggregation='Avg' caption='Elo Rating' datatype='real' name='[elo_rating]' role='measure' type='quantitative' />
+<column aggregation='Sum' datatype='integer' name='[matches_played]' role='measure' type='quantitative' />
+<column aggregation='Sum' datatype='integer' name='[wins]' role='measure' type='quantitative' />
+<column aggregation='Sum' datatype='integer' name='[goal_difference]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+    <datasource caption='World Cup Scoring Trend' inline='true' name='scoring' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='world_cup_scoring_trend' username='tableau_internal_user'>
+        <relation name='world_cup_scoring_trend' table='[Extract].[world_cup_scoring_trend]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[world_cup_year]' role='dimension' type='ordinal' />
+<column aggregation='Sum' datatype='integer' name='[matches]' role='measure' type='quantitative' />
+<column aggregation='Sum' caption='Total Goals' datatype='integer' name='[total_goals]' role='measure' type='quantitative' />
+<column aggregation='Avg' caption='Avg Goals' datatype='real' name='[avg_goals_per_match]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+    <datasource caption='World Cup Points Top 10' inline='true' name='wc_points' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='world_cup_points_top_10' username='tableau_internal_user'>
+        <relation name='world_cup_points_top_10' table='[Extract].[world_cup_points_top_10]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[points_rank]' role='dimension' type='ordinal' />
+<column datatype='string' name='[points_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[team]' role='dimension' type='nominal' />
+<column aggregation='Sum' datatype='integer' name='[matches_played]' role='measure' type='quantitative' />
+<column aggregation='Sum' datatype='integer' name='[points]' role='measure' type='quantitative' />
+<column aggregation='Avg' caption='Points per Match' datatype='real' name='[points_per_match]' role='measure' type='quantitative' />
+<column aggregation='Avg' datatype='real' name='[win_rate]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+    <datasource caption='Team Dominance Top 10' inline='true' name='tdi' version='18.1'>
+      <connection authentication='auth-none' class='hyper' dbname='Data/world_cup_analytics.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='team_dominance_top_10' username='tableau_internal_user'>
+        <relation name='team_dominance_top_10' table='[Extract].[team_dominance_top_10]' type='table' />
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[dominance_rank]' role='dimension' type='ordinal' />
+<column datatype='string' name='[dominance_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[team]' role='dimension' type='nominal' />
+<column aggregation='Sum' datatype='integer' name='[matches_played]' role='measure' type='quantitative' />
+<column aggregation='Avg' caption='Dominance Index' datatype='real' name='[dominance_index]' role='measure' type='quantitative' />
+<column aggregation='Avg' caption='Points per Match' datatype='real' name='[points_per_match]' role='measure' type='quantitative' />
+<column aggregation='Avg' datatype='real' name='[avg_goal_diff]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.55' measure-ordering='alphabetic' measure-percentage='0.45' show-structure='true' />
+    </datasource>
+
+          </datasources>
+          <worksheets>
+
+    <worksheet name='Matches'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>Matches</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Matches' name='kpi_matches' />
+          </datasources>
+          <datasource-dependencies datasource='kpi_matches'>
+            <column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column-instance column='[kpi_display]' derivation='None' name='[none:kpi_display:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Text' />
+            <encodings>
+              <text column='[kpi_matches].[none:kpi_display:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows></rows>
+        <cols></cols>
+      </table>
+    </worksheet>
+
+    <worksheet name='Teams'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>Teams</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Teams' name='kpi_teams' />
+          </datasources>
+          <datasource-dependencies datasource='kpi_teams'>
+            <column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column-instance column='[kpi_display]' derivation='None' name='[none:kpi_display:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Text' />
+            <encodings>
+              <text column='[kpi_teams].[none:kpi_display:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows></rows>
+        <cols></cols>
+      </table>
+    </worksheet>
+
+    <worksheet name='WC Matches'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>WC Matches</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='WC Matches' name='kpi_wc_matches' />
+          </datasources>
+          <datasource-dependencies datasource='kpi_wc_matches'>
+            <column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column-instance column='[kpi_display]' derivation='None' name='[none:kpi_display:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Text' />
+            <encodings>
+              <text column='[kpi_wc_matches].[none:kpi_display:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows></rows>
+        <cols></cols>
+      </table>
+    </worksheet>
+
+    <worksheet name='Goals'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>Goals</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Goals' name='kpi_goals' />
+          </datasources>
+          <datasource-dependencies datasource='kpi_goals'>
+            <column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column-instance column='[kpi_display]' derivation='None' name='[none:kpi_display:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Text' />
+            <encodings>
+              <text column='[kpi_goals].[none:kpi_display:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows></rows>
+        <cols></cols>
+      </table>
+    </worksheet>
+
+    <worksheet name='Top Elo'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>Top Elo</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Top Elo' name='kpi_top_elo' />
+          </datasources>
+          <datasource-dependencies datasource='kpi_top_elo'>
+            <column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column-instance column='[kpi_display]' derivation='None' name='[none:kpi_display:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Text' />
+            <encodings>
+              <text column='[kpi_top_elo].[none:kpi_display:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows></rows>
+        <cols></cols>
+      </table>
+    </worksheet>
+
+    <worksheet name='Top Scorer'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>Top Scorer</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Top Scorer' name='kpi_top_scorer' />
+          </datasources>
+          <datasource-dependencies datasource='kpi_top_scorer'>
+            <column datatype='string' name='[kpi_display]' role='dimension' type='nominal' />
+<column-instance column='[kpi_display]' derivation='None' name='[none:kpi_display:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Text' />
+            <encodings>
+              <text column='[kpi_top_scorer].[none:kpi_display:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows></rows>
+        <cols></cols>
+      </table>
+    </worksheet>
+
+    <worksheet name='Top Goal Scorers'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>Top Goal Scorers</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Top Scorers' name='scorers' />
+          </datasources>
+          <datasource-dependencies datasource='scorers'>
+            <column datatype='string' name='[scorer_label]' role='dimension' type='nominal' />
+<column datatype='string' name='[team]' role='dimension' type='nominal' />
+<column aggregation='Sum' caption='Goals' datatype='integer' name='[goals]' role='measure' type='quantitative' />
+<column-instance column='[scorer_label]' derivation='None' name='[none:scorer_label:nk]' pivot='key' type='nominal' />
+<column-instance column='[team]' derivation='None' name='[none:team:nk]' pivot='key' type='nominal' />
+<column-instance column='[goals]' derivation='Sum' name='[sum:goals:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[scorers].[sum:goals:qk]' />
+<text column='[scorers].[sum:goals:qk]' />
+<tooltip column='[scorers].[none:team:nk]' />
+<tooltip column='[scorers].[sum:goals:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[scorers].[none:scorer_label:nk]</rows>
+        <cols>[scorers].[sum:goals:qk]</cols>
+      </table>
+    </worksheet>
+
+    <worksheet name='Elo Power Ranking'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>Elo Power Ranking</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Elo Top 10' name='elo' />
+          </datasources>
+          <datasource-dependencies datasource='elo'>
+            <column datatype='string' name='[elo_label]' role='dimension' type='nominal' />
+<column aggregation='Avg' caption='Elo Rating' datatype='real' name='[elo_rating]' role='measure' type='quantitative' />
+<column aggregation='Sum' datatype='integer' name='[matches_played]' role='measure' type='quantitative' />
+<column aggregation='Sum' datatype='integer' name='[wins]' role='measure' type='quantitative' />
+<column-instance column='[elo_label]' derivation='None' name='[none:elo_label:nk]' pivot='key' type='nominal' />
+<column-instance column='[elo_rating]' derivation='Avg' name='[avg:elo_rating:qk]' pivot='key' type='quantitative' />
+<column-instance column='[matches_played]' derivation='Sum' name='[sum:matches_played:qk]' pivot='key' type='quantitative' />
+<column-instance column='[wins]' derivation='Sum' name='[sum:wins:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[elo].[avg:elo_rating:qk]' />
+<text column='[elo].[avg:elo_rating:qk]' />
+<tooltip column='[elo].[sum:matches_played:qk]' />
+<tooltip column='[elo].[sum:wins:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[elo].[none:elo_label:nk]</rows>
+        <cols>[elo].[avg:elo_rating:qk]</cols>
+      </table>
+    </worksheet>
+
+    <worksheet name='Average Goals per Match by World Cup'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>Average Goals per Match by World Cup</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='World Cup Scoring Trend' name='scoring' />
+          </datasources>
+          <datasource-dependencies datasource='scoring'>
+            <column datatype='integer' name='[world_cup_year]' role='dimension' type='ordinal' />
+<column aggregation='Avg' caption='Avg Goals' datatype='real' name='[avg_goals_per_match]' role='measure' type='quantitative' />
+<column aggregation='Sum' caption='Total Goals' datatype='integer' name='[total_goals]' role='measure' type='quantitative' />
+<column-instance column='[world_cup_year]' derivation='None' name='[none:world_cup_year:ok]' pivot='key' type='ordinal' />
+<column-instance column='[avg_goals_per_match]' derivation='Avg' name='[avg:avg_goals_per_match:qk]' pivot='key' type='quantitative' />
+<column-instance column='[total_goals]' derivation='Sum' name='[sum:total_goals:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <text column='[scoring].[avg:avg_goals_per_match:qk]' />
+<tooltip column='[scoring].[sum:total_goals:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[scoring].[avg:avg_goals_per_match:qk]</rows>
+        <cols>[scoring].[none:world_cup_year:ok]</cols>
+      </table>
+    </worksheet>
+
+    <worksheet name='Top World Cup Teams by Points per Match'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>Top World Cup Teams by Points per Match</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='World Cup Points Top 10' name='wc_points' />
+          </datasources>
+          <datasource-dependencies datasource='wc_points'>
+            <column datatype='string' name='[points_label]' role='dimension' type='nominal' />
+<column aggregation='Avg' caption='Points per Match' datatype='real' name='[points_per_match]' role='measure' type='quantitative' />
+<column aggregation='Sum' datatype='integer' name='[points]' role='measure' type='quantitative' />
+<column aggregation='Sum' datatype='integer' name='[matches_played]' role='measure' type='quantitative' />
+<column-instance column='[points_label]' derivation='None' name='[none:points_label:nk]' pivot='key' type='nominal' />
+<column-instance column='[points_per_match]' derivation='Avg' name='[avg:points_per_match:qk]' pivot='key' type='quantitative' />
+<column-instance column='[points]' derivation='Sum' name='[sum:points:qk]' pivot='key' type='quantitative' />
+<column-instance column='[matches_played]' derivation='Sum' name='[sum:matches_played:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[wc_points].[avg:points_per_match:qk]' />
+<text column='[wc_points].[avg:points_per_match:qk]' />
+<tooltip column='[wc_points].[sum:points:qk]' />
+<tooltip column='[wc_points].[sum:matches_played:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[wc_points].[none:points_label:nk]</rows>
+        <cols>[wc_points].[avg:points_per_match:qk]</cols>
+      </table>
+    </worksheet>
+
+    <worksheet name='Team Dominance Index'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='15'>Team Dominance Index</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Team Dominance Top 10' name='tdi' />
+          </datasources>
+          <datasource-dependencies datasource='tdi'>
+            <column datatype='string' name='[dominance_label]' role='dimension' type='nominal' />
+<column aggregation='Avg' caption='Dominance Index' datatype='real' name='[dominance_index]' role='measure' type='quantitative' />
+<column aggregation='Avg' caption='Points per Match' datatype='real' name='[points_per_match]' role='measure' type='quantitative' />
+<column aggregation='Avg' datatype='real' name='[avg_goal_diff]' role='measure' type='quantitative' />
+<column-instance column='[dominance_label]' derivation='None' name='[none:dominance_label:nk]' pivot='key' type='nominal' />
+<column-instance column='[dominance_index]' derivation='Avg' name='[avg:dominance_index:qk]' pivot='key' type='quantitative' />
+<column-instance column='[points_per_match]' derivation='Avg' name='[avg:points_per_match:qk]' pivot='key' type='quantitative' />
+<column-instance column='[avg_goal_diff]' derivation='Avg' name='[avg:avg_goal_diff:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='background-color' value='#FFFFFF' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='0'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[tdi].[avg:dominance_index:qk]' />
+<text column='[tdi].[avg:dominance_index:qk]' />
+<tooltip column='[tdi].[avg:points_per_match:qk]' />
+<tooltip column='[tdi].[avg:avg_goal_diff:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[tdi].[none:dominance_label:nk]</rows>
+        <cols>[tdi].[avg:dominance_index:qk]</cols>
+      </table>
+    </worksheet>
+
+          </worksheets>
+          <dashboards>
+
+    <dashboard name='World Cup Analytics'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#0B2F4A' fontname='Arial' fontsize='28'>World Cup Analytics Dashboard</run>
+            <run fontcolor='#52616B' fontname='Arial' fontsize='10'> Comparing scoring leaders, team strength, World Cup performance, and dominance trends</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <style>
+        <style-rule element='dashboard'>
+          <format attr='background-color' value='#F7F9FB' />
+        </style-rule>
+      </style>
+      <size maxheight='950' maxwidth='1300' minheight='950' minwidth='1300' />
+      <zones>
+        <zone h='100000' id='1' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='8000' id='2' type-v2='title' w='100000' x='0' y='0' />
+          <zone h='16000' id='3' name='Matches' show-title='true' w='12500' x='0' y='8000' />
+          <zone h='16000' id='4' name='Teams' show-title='true' w='12500' x='12500' y='8000' />
+          <zone h='16000' id='5' name='WC Matches' show-title='true' w='12500' x='25000' y='8000' />
+          <zone h='16000' id='6' name='Goals' show-title='true' w='12500' x='37500' y='8000' />
+          <zone h='16000' id='7' name='Top Elo' show-title='true' w='25000' x='50000' y='8000' />
+          <zone h='16000' id='8' name='Top Scorer' show-title='true' w='25000' x='75000' y='8000' />
+          <zone h='38000' id='9' name='Top Goal Scorers' show-title='true' w='50000' x='0' y='24000' />
+          <zone h='38000' id='10' name='Elo Power Ranking' show-title='true' w='50000' x='50000' y='24000' />
+          <zone h='38000' id='11' name='Average Goals per Match by World Cup' show-title='true' w='33333' x='0' y='62000' />
+          <zone h='38000' id='12' name='Top World Cup Teams by Points per Match' show-title='true' w='33333' x='33333' y='62000' />
+          <zone h='38000' id='13' name='Team Dominance Index' show-title='true' w='33334' x='66666' y='62000' />
+        </zone>
+      </zones>
+    </dashboard>
+
+          </dashboards>
+          <windows source-height='32'>
+
+    <window class='dashboard' maximized='true' name='World Cup Analytics'>
+      <viewpoints>
+        <viewpoint name='Matches' />
+        <viewpoint name='Teams' />
+        <viewpoint name='WC Matches' />
+        <viewpoint name='Goals' />
+        <viewpoint name='Top Elo' />
+        <viewpoint name='Top Scorer' />
+        <viewpoint name='Top Goal Scorers' />
+        <viewpoint name='Elo Power Ranking' />
+        <viewpoint name='Average Goals per Match by World Cup' />
+        <viewpoint name='Top World Cup Teams by Points per Match' />
+        <viewpoint name='Team Dominance Index' />
+      </viewpoints>
+      <active id='-1' />
+    </window>
+
+    <window class='worksheet' maximized='true' name='Matches'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+    <window class='worksheet' maximized='true' name='Teams'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+    <window class='worksheet' maximized='true' name='WC Matches'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+    <window class='worksheet' maximized='true' name='Goals'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+    <window class='worksheet' maximized='true' name='Top Elo'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+    <window class='worksheet' maximized='true' name='Top Scorer'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+    <window class='worksheet' maximized='true' name='Top Goal Scorers'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+    <window class='worksheet' maximized='true' name='Elo Power Ranking'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+    <window class='worksheet' maximized='true' name='Average Goals per Match by World Cup'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+    <window class='worksheet' maximized='true' name='Top World Cup Teams by Points per Match'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+    <window class='worksheet' maximized='true' name='Team Dominance Index'>
+      <cards>
+        <edge name='left'>
+          <strip size='180'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'><card type='columns' /></strip>
+          <strip size='31'><card type='rows' /></strip>
+          <strip size='31'><card type='title' /></strip>
+        </edge>
+      </cards>
+      <viewpoint />
+    </window>
+
+          </windows>
+        </workbook>

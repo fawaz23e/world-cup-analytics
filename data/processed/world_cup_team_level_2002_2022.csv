@@ -1,0 +1,769 @@
+match_id,date,team,opponent,tournament,tournament_category,home_or_away,neutral,goals_for,goals_against,is_world_cup,world_cup_year,year,goal_difference,result,win,draw,loss,points,dominant_win
+26432,2002-05-31,France,Senegal,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26432,2002-05-31,Senegal,France,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26433,2002-06-01,Denmark,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2002,2002,1,win,True,False,False,3,False
+26433,2002-06-01,Uruguay,Denmark,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2002,2002,-1,loss,False,False,True,0,False
+26434,2002-06-01,Germany,Saudi Arabia,FIFA World Cup,World Cup (final tournament),home,True,8,0,True,2002,2002,8,win,True,False,False,3,True
+26434,2002-06-01,Saudi Arabia,Germany,FIFA World Cup,World Cup (final tournament),away,True,0,8,True,2002,2002,-8,loss,False,False,True,0,False
+26435,2002-06-01,Cameroon,Republic of Ireland,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26435,2002-06-01,Republic of Ireland,Cameroon,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26436,2002-06-02,Argentina,Nigeria,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26436,2002-06-02,Nigeria,Argentina,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26437,2002-06-02,England,Sweden,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26437,2002-06-02,Sweden,England,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26438,2002-06-02,Paraguay,South Africa,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2002,2002,0,draw,False,True,False,1,False
+26438,2002-06-02,South Africa,Paraguay,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2002,2002,0,draw,False,True,False,1,False
+26439,2002-06-02,Slovenia,Spain,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2002,2002,-2,loss,False,False,True,0,False
+26439,2002-06-02,Spain,Slovenia,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2002,2002,2,win,True,False,False,3,False
+26440,2002-06-03,Brazil,Turkey,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2002,2002,1,win,True,False,False,3,False
+26440,2002-06-03,Turkey,Brazil,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2002,2002,-1,loss,False,False,True,0,False
+26441,2002-06-03,Croatia,Mexico,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26441,2002-06-03,Mexico,Croatia,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26442,2002-06-03,Ecuador,Italy,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2002,2002,-2,loss,False,False,True,0,False
+26442,2002-06-03,Italy,Ecuador,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2002,2002,2,win,True,False,False,3,False
+26443,2002-06-04,China PR,Costa Rica,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2002,2002,-2,loss,False,False,True,0,False
+26443,2002-06-04,Costa Rica,China PR,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2002,2002,2,win,True,False,False,3,False
+26444,2002-06-04,Belgium,Japan,FIFA World Cup,World Cup (final tournament),away,False,2,2,True,2002,2002,0,draw,False,True,False,1,False
+26444,2002-06-04,Japan,Belgium,FIFA World Cup,World Cup (final tournament),home,False,2,2,True,2002,2002,0,draw,False,True,False,1,False
+26445,2002-06-04,Poland,South Korea,FIFA World Cup,World Cup (final tournament),away,False,0,2,True,2002,2002,-2,loss,False,False,True,0,False
+26445,2002-06-04,South Korea,Poland,FIFA World Cup,World Cup (final tournament),home,False,2,0,True,2002,2002,2,win,True,False,False,3,False
+26446,2002-06-05,Portugal,United States,FIFA World Cup,World Cup (final tournament),away,True,2,3,True,2002,2002,-1,loss,False,False,True,0,False
+26446,2002-06-05,United States,Portugal,FIFA World Cup,World Cup (final tournament),home,True,3,2,True,2002,2002,1,win,True,False,False,3,False
+26447,2002-06-05,Germany,Republic of Ireland,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26447,2002-06-05,Republic of Ireland,Germany,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26448,2002-06-05,Russia,Tunisia,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2002,2002,2,win,True,False,False,3,False
+26448,2002-06-05,Tunisia,Russia,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2002,2002,-2,loss,False,False,True,0,False
+26449,2002-06-06,Cameroon,Saudi Arabia,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26449,2002-06-06,Saudi Arabia,Cameroon,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26450,2002-06-06,Denmark,Senegal,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26450,2002-06-06,Senegal,Denmark,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26451,2002-06-06,France,Uruguay,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2002,2002,0,draw,False,True,False,1,False
+26451,2002-06-06,Uruguay,France,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2002,2002,0,draw,False,True,False,1,False
+26454,2002-06-07,Argentina,England,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26454,2002-06-07,England,Argentina,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26455,2002-06-07,Paraguay,Spain,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2002,2002,-2,loss,False,False,True,0,False
+26455,2002-06-07,Spain,Paraguay,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2002,2002,2,win,True,False,False,3,False
+26456,2002-06-07,Nigeria,Sweden,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2002,2002,-1,loss,False,False,True,0,False
+26456,2002-06-07,Sweden,Nigeria,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2002,2002,1,win,True,False,False,3,False
+26457,2002-06-08,Slovenia,South Africa,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26457,2002-06-08,South Africa,Slovenia,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26459,2002-06-08,Croatia,Italy,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2002,2002,1,win,True,False,False,3,False
+26459,2002-06-08,Italy,Croatia,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2002,2002,-1,loss,False,False,True,0,False
+26460,2002-06-08,Brazil,China PR,FIFA World Cup,World Cup (final tournament),home,True,4,0,True,2002,2002,4,win,True,False,False,3,True
+26460,2002-06-08,China PR,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,4,True,2002,2002,-4,loss,False,False,True,0,False
+26461,2002-06-09,Costa Rica,Turkey,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26461,2002-06-09,Turkey,Costa Rica,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26462,2002-06-09,Japan,Russia,FIFA World Cup,World Cup (final tournament),home,False,1,0,True,2002,2002,1,win,True,False,False,3,False
+26462,2002-06-09,Russia,Japan,FIFA World Cup,World Cup (final tournament),away,False,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26464,2002-06-09,Ecuador,Mexico,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2002,2002,-1,loss,False,False,True,0,False
+26464,2002-06-09,Mexico,Ecuador,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2002,2002,1,win,True,False,False,3,False
+26465,2002-06-10,South Korea,United States,FIFA World Cup,World Cup (final tournament),home,False,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26465,2002-06-10,United States,South Korea,FIFA World Cup,World Cup (final tournament),away,False,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26466,2002-06-10,Poland,Portugal,FIFA World Cup,World Cup (final tournament),away,True,0,4,True,2002,2002,-4,loss,False,False,True,0,False
+26466,2002-06-10,Portugal,Poland,FIFA World Cup,World Cup (final tournament),home,True,4,0,True,2002,2002,4,win,True,False,False,3,True
+26467,2002-06-10,Belgium,Tunisia,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26467,2002-06-10,Tunisia,Belgium,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26468,2002-06-11,Senegal,Uruguay,FIFA World Cup,World Cup (final tournament),home,True,3,3,True,2002,2002,0,draw,False,True,False,1,False
+26468,2002-06-11,Uruguay,Senegal,FIFA World Cup,World Cup (final tournament),away,True,3,3,True,2002,2002,0,draw,False,True,False,1,False
+26469,2002-06-11,Republic of Ireland,Saudi Arabia,FIFA World Cup,World Cup (final tournament),away,True,3,0,True,2002,2002,3,win,True,False,False,3,True
+26469,2002-06-11,Saudi Arabia,Republic of Ireland,FIFA World Cup,World Cup (final tournament),home,True,0,3,True,2002,2002,-3,loss,False,False,True,0,False
+26470,2002-06-11,Cameroon,Germany,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2002,2002,-2,loss,False,False,True,0,False
+26470,2002-06-11,Germany,Cameroon,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2002,2002,2,win,True,False,False,3,False
+26471,2002-06-11,Denmark,France,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2002,2002,2,win,True,False,False,3,False
+26471,2002-06-11,France,Denmark,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2002,2002,-2,loss,False,False,True,0,False
+26472,2002-06-12,England,Nigeria,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2002,2002,0,draw,False,True,False,1,False
+26472,2002-06-12,Nigeria,England,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2002,2002,0,draw,False,True,False,1,False
+26473,2002-06-12,Paraguay,Slovenia,FIFA World Cup,World Cup (final tournament),away,True,3,1,True,2002,2002,2,win,True,False,False,3,False
+26473,2002-06-12,Slovenia,Paraguay,FIFA World Cup,World Cup (final tournament),home,True,1,3,True,2002,2002,-2,loss,False,False,True,0,False
+26474,2002-06-12,South Africa,Spain,FIFA World Cup,World Cup (final tournament),home,True,2,3,True,2002,2002,-1,loss,False,False,True,0,False
+26474,2002-06-12,Spain,South Africa,FIFA World Cup,World Cup (final tournament),away,True,3,2,True,2002,2002,1,win,True,False,False,3,False
+26475,2002-06-12,Argentina,Sweden,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26475,2002-06-12,Sweden,Argentina,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26476,2002-06-13,Brazil,Costa Rica,FIFA World Cup,World Cup (final tournament),away,True,5,2,True,2002,2002,3,win,True,False,False,3,True
+26476,2002-06-13,Costa Rica,Brazil,FIFA World Cup,World Cup (final tournament),home,True,2,5,True,2002,2002,-3,loss,False,False,True,0,False
+26477,2002-06-13,Croatia,Ecuador,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26477,2002-06-13,Ecuador,Croatia,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26478,2002-06-13,Italy,Mexico,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26478,2002-06-13,Mexico,Italy,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26479,2002-06-13,China PR,Turkey,FIFA World Cup,World Cup (final tournament),away,True,0,3,True,2002,2002,-3,loss,False,False,True,0,False
+26479,2002-06-13,Turkey,China PR,FIFA World Cup,World Cup (final tournament),home,True,3,0,True,2002,2002,3,win,True,False,False,3,True
+26480,2002-06-14,Poland,United States,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2002,2002,2,win,True,False,False,3,False
+26480,2002-06-14,United States,Poland,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2002,2002,-2,loss,False,False,True,0,False
+26481,2002-06-14,Portugal,South Korea,FIFA World Cup,World Cup (final tournament),away,False,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26481,2002-06-14,South Korea,Portugal,FIFA World Cup,World Cup (final tournament),home,False,1,0,True,2002,2002,1,win,True,False,False,3,False
+26482,2002-06-14,Belgium,Russia,FIFA World Cup,World Cup (final tournament),home,True,3,2,True,2002,2002,1,win,True,False,False,3,False
+26482,2002-06-14,Russia,Belgium,FIFA World Cup,World Cup (final tournament),away,True,2,3,True,2002,2002,-1,loss,False,False,True,0,False
+26483,2002-06-14,Japan,Tunisia,FIFA World Cup,World Cup (final tournament),home,False,2,0,True,2002,2002,2,win,True,False,False,3,False
+26483,2002-06-14,Tunisia,Japan,FIFA World Cup,World Cup (final tournament),away,False,0,2,True,2002,2002,-2,loss,False,False,True,0,False
+26484,2002-06-15,Denmark,England,FIFA World Cup,World Cup (final tournament),home,True,0,3,True,2002,2002,-3,loss,False,False,True,0,False
+26484,2002-06-15,England,Denmark,FIFA World Cup,World Cup (final tournament),away,True,3,0,True,2002,2002,3,win,True,False,False,3,True
+26485,2002-06-15,Germany,Paraguay,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26485,2002-06-15,Paraguay,Germany,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26486,2002-06-16,Republic of Ireland,Spain,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26486,2002-06-16,Spain,Republic of Ireland,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2002,2002,0,draw,False,True,False,1,False
+26487,2002-06-16,Senegal,Sweden,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2002,2002,1,win,True,False,False,3,False
+26487,2002-06-16,Sweden,Senegal,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2002,2002,-1,loss,False,False,True,0,False
+26488,2002-06-17,Belgium,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2002,2002,-2,loss,False,False,True,0,False
+26488,2002-06-17,Brazil,Belgium,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2002,2002,2,win,True,False,False,3,False
+26489,2002-06-17,Mexico,United States,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2002,2002,-2,loss,False,False,True,0,False
+26489,2002-06-17,United States,Mexico,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2002,2002,2,win,True,False,False,3,False
+26490,2002-06-18,Japan,Turkey,FIFA World Cup,World Cup (final tournament),home,False,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26490,2002-06-18,Turkey,Japan,FIFA World Cup,World Cup (final tournament),away,False,1,0,True,2002,2002,1,win,True,False,False,3,False
+26491,2002-06-18,Italy,South Korea,FIFA World Cup,World Cup (final tournament),away,False,1,2,True,2002,2002,-1,loss,False,False,True,0,False
+26491,2002-06-18,South Korea,Italy,FIFA World Cup,World Cup (final tournament),home,False,2,1,True,2002,2002,1,win,True,False,False,3,False
+26492,2002-06-21,Germany,United States,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26492,2002-06-21,United States,Germany,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26493,2002-06-21,Brazil,England,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2002,2002,1,win,True,False,False,3,False
+26493,2002-06-21,England,Brazil,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2002,2002,-1,loss,False,False,True,0,False
+26495,2002-06-22,South Korea,Spain,FIFA World Cup,World Cup (final tournament),home,False,0,0,True,2002,2002,0,draw,False,True,False,1,False
+26495,2002-06-22,Spain,South Korea,FIFA World Cup,World Cup (final tournament),away,False,0,0,True,2002,2002,0,draw,False,True,False,1,False
+26496,2002-06-22,Senegal,Turkey,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26496,2002-06-22,Turkey,Senegal,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26498,2002-06-25,Germany,South Korea,FIFA World Cup,World Cup (final tournament),away,False,1,0,True,2002,2002,1,win,True,False,False,3,False
+26498,2002-06-25,South Korea,Germany,FIFA World Cup,World Cup (final tournament),home,False,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26500,2002-06-26,Brazil,Turkey,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2002,2002,1,win,True,False,False,3,False
+26500,2002-06-26,Turkey,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2002,2002,-1,loss,False,False,True,0,False
+26501,2002-06-29,South Korea,Turkey,FIFA World Cup,World Cup (final tournament),home,False,2,3,True,2002,2002,-1,loss,False,False,True,0,False
+26501,2002-06-29,Turkey,South Korea,FIFA World Cup,World Cup (final tournament),away,False,3,2,True,2002,2002,1,win,True,False,False,3,False
+26503,2002-06-30,Brazil,Germany,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2002,2002,2,win,True,False,False,3,False
+26503,2002-06-30,Germany,Brazil,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2002,2002,-2,loss,False,False,True,0,False
+30033,2006-06-09,Costa Rica,Germany,FIFA World Cup,World Cup (final tournament),away,False,2,4,True,2006,2006,-2,loss,False,False,True,0,False
+30033,2006-06-09,Germany,Costa Rica,FIFA World Cup,World Cup (final tournament),home,False,4,2,True,2006,2006,2,win,True,False,False,3,False
+30034,2006-06-09,Ecuador,Poland,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30034,2006-06-09,Poland,Ecuador,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30035,2006-06-10,Sweden,Trinidad and Tobago,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30035,2006-06-10,Trinidad and Tobago,Sweden,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30036,2006-06-10,England,Paraguay,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30036,2006-06-10,Paraguay,England,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30037,2006-06-10,Argentina,Ivory Coast,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2006,2006,1,win,True,False,False,3,False
+30037,2006-06-10,Ivory Coast,Argentina,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2006,2006,-1,loss,False,False,True,0,False
+30038,2006-06-11,Angola,Portugal,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30038,2006-06-11,Portugal,Angola,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30039,2006-06-11,Iran,Mexico,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2006,2006,-2,loss,False,False,True,0,False
+30039,2006-06-11,Mexico,Iran,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2006,2006,2,win,True,False,False,3,False
+30040,2006-06-11,Netherlands,Serbia,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30040,2006-06-11,Serbia,Netherlands,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30041,2006-06-12,Australia,Japan,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2006,2006,2,win,True,False,False,3,False
+30041,2006-06-12,Japan,Australia,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2006,2006,-2,loss,False,False,True,0,False
+30042,2006-06-12,Ghana,Italy,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30042,2006-06-12,Italy,Ghana,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30043,2006-06-12,Czech Republic,United States,FIFA World Cup,World Cup (final tournament),away,True,3,0,True,2006,2006,3,win,True,False,False,3,True
+30043,2006-06-12,United States,Czech Republic,FIFA World Cup,World Cup (final tournament),home,True,0,3,True,2006,2006,-3,loss,False,False,True,0,False
+30044,2006-06-13,South Korea,Togo,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2006,2006,1,win,True,False,False,3,False
+30044,2006-06-13,Togo,South Korea,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2006,2006,-1,loss,False,False,True,0,False
+30045,2006-06-13,Brazil,Croatia,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30045,2006-06-13,Croatia,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30046,2006-06-13,France,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30046,2006-06-13,Switzerland,France,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30047,2006-06-14,Saudi Arabia,Tunisia,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2006,2006,0,draw,False,True,False,1,False
+30047,2006-06-14,Tunisia,Saudi Arabia,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2006,2006,0,draw,False,True,False,1,False
+30048,2006-06-14,Spain,Ukraine,FIFA World Cup,World Cup (final tournament),home,True,4,0,True,2006,2006,4,win,True,False,False,3,True
+30048,2006-06-14,Ukraine,Spain,FIFA World Cup,World Cup (final tournament),away,True,0,4,True,2006,2006,-4,loss,False,False,True,0,False
+30049,2006-06-14,Germany,Poland,FIFA World Cup,World Cup (final tournament),home,False,1,0,True,2006,2006,1,win,True,False,False,3,False
+30049,2006-06-14,Poland,Germany,FIFA World Cup,World Cup (final tournament),away,False,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30050,2006-06-15,Costa Rica,Ecuador,FIFA World Cup,World Cup (final tournament),away,True,0,3,True,2006,2006,-3,loss,False,False,True,0,False
+30050,2006-06-15,Ecuador,Costa Rica,FIFA World Cup,World Cup (final tournament),home,True,3,0,True,2006,2006,3,win,True,False,False,3,True
+30051,2006-06-15,England,Trinidad and Tobago,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30051,2006-06-15,Trinidad and Tobago,England,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30052,2006-06-15,Paraguay,Sweden,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30052,2006-06-15,Sweden,Paraguay,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30053,2006-06-16,Argentina,Serbia,FIFA World Cup,World Cup (final tournament),home,True,6,0,True,2006,2006,6,win,True,False,False,3,True
+30053,2006-06-16,Serbia,Argentina,FIFA World Cup,World Cup (final tournament),away,True,0,6,True,2006,2006,-6,loss,False,False,True,0,False
+30054,2006-06-16,Angola,Mexico,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30054,2006-06-16,Mexico,Angola,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30055,2006-06-16,Ivory Coast,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2006,2006,-1,loss,False,False,True,0,False
+30055,2006-06-16,Netherlands,Ivory Coast,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2006,2006,1,win,True,False,False,3,False
+30056,2006-06-17,Czech Republic,Ghana,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30056,2006-06-17,Ghana,Czech Republic,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30057,2006-06-17,Italy,United States,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2006,2006,0,draw,False,True,False,1,False
+30057,2006-06-17,United States,Italy,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2006,2006,0,draw,False,True,False,1,False
+30058,2006-06-17,Iran,Portugal,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30058,2006-06-17,Portugal,Iran,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30059,2006-06-18,France,South Korea,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2006,2006,0,draw,False,True,False,1,False
+30059,2006-06-18,South Korea,France,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2006,2006,0,draw,False,True,False,1,False
+30060,2006-06-18,Croatia,Japan,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30060,2006-06-18,Japan,Croatia,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30061,2006-06-18,Australia,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30061,2006-06-18,Brazil,Australia,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30062,2006-06-19,Saudi Arabia,Ukraine,FIFA World Cup,World Cup (final tournament),home,True,0,4,True,2006,2006,-4,loss,False,False,True,0,False
+30062,2006-06-19,Ukraine,Saudi Arabia,FIFA World Cup,World Cup (final tournament),away,True,4,0,True,2006,2006,4,win,True,False,False,3,True
+30063,2006-06-19,Spain,Tunisia,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2006,2006,2,win,True,False,False,3,False
+30063,2006-06-19,Tunisia,Spain,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2006,2006,-2,loss,False,False,True,0,False
+30064,2006-06-19,Switzerland,Togo,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30064,2006-06-19,Togo,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30065,2006-06-20,Costa Rica,Poland,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2006,2006,-1,loss,False,False,True,0,False
+30065,2006-06-20,Poland,Costa Rica,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2006,2006,1,win,True,False,False,3,False
+30066,2006-06-20,Ecuador,Germany,FIFA World Cup,World Cup (final tournament),away,False,0,3,True,2006,2006,-3,loss,False,False,True,0,False
+30066,2006-06-20,Germany,Ecuador,FIFA World Cup,World Cup (final tournament),home,False,3,0,True,2006,2006,3,win,True,False,False,3,True
+30067,2006-06-20,Paraguay,Trinidad and Tobago,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30067,2006-06-20,Trinidad and Tobago,Paraguay,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30068,2006-06-20,England,Sweden,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2006,2006,0,draw,False,True,False,1,False
+30068,2006-06-20,Sweden,England,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2006,2006,0,draw,False,True,False,1,False
+30069,2006-06-21,Mexico,Portugal,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2006,2006,-1,loss,False,False,True,0,False
+30069,2006-06-21,Portugal,Mexico,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2006,2006,1,win,True,False,False,3,False
+30070,2006-06-21,Angola,Iran,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2006,2006,0,draw,False,True,False,1,False
+30070,2006-06-21,Iran,Angola,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2006,2006,0,draw,False,True,False,1,False
+30071,2006-06-21,Ivory Coast,Serbia,FIFA World Cup,World Cup (final tournament),home,True,3,2,True,2006,2006,1,win,True,False,False,3,False
+30071,2006-06-21,Serbia,Ivory Coast,FIFA World Cup,World Cup (final tournament),away,True,2,3,True,2006,2006,-1,loss,False,False,True,0,False
+30072,2006-06-21,Argentina,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30072,2006-06-21,Netherlands,Argentina,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30073,2006-06-22,Brazil,Japan,FIFA World Cup,World Cup (final tournament),away,True,4,1,True,2006,2006,3,win,True,False,False,3,True
+30073,2006-06-22,Japan,Brazil,FIFA World Cup,World Cup (final tournament),home,True,1,4,True,2006,2006,-3,loss,False,False,True,0,False
+30074,2006-06-22,Ghana,United States,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2006,2006,1,win,True,False,False,3,False
+30074,2006-06-22,United States,Ghana,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2006,2006,-1,loss,False,False,True,0,False
+30075,2006-06-22,Australia,Croatia,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2006,2006,0,draw,False,True,False,1,False
+30075,2006-06-22,Croatia,Australia,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2006,2006,0,draw,False,True,False,1,False
+30076,2006-06-22,Czech Republic,Italy,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30076,2006-06-22,Italy,Czech Republic,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30077,2006-06-23,Saudi Arabia,Spain,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30077,2006-06-23,Spain,Saudi Arabia,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30078,2006-06-23,South Korea,Switzerland,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30078,2006-06-23,Switzerland,South Korea,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30079,2006-06-23,France,Togo,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2006,2006,2,win,True,False,False,3,False
+30079,2006-06-23,Togo,France,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30080,2006-06-23,Tunisia,Ukraine,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30080,2006-06-23,Ukraine,Tunisia,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30081,2006-06-24,Argentina,Mexico,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2006,2006,1,win,True,False,False,3,False
+30081,2006-06-24,Mexico,Argentina,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2006,2006,-1,loss,False,False,True,0,False
+30082,2006-06-24,Germany,Sweden,FIFA World Cup,World Cup (final tournament),home,False,2,0,True,2006,2006,2,win,True,False,False,3,False
+30082,2006-06-24,Sweden,Germany,FIFA World Cup,World Cup (final tournament),away,False,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30086,2006-06-25,Netherlands,Portugal,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30086,2006-06-25,Portugal,Netherlands,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30087,2006-06-25,Ecuador,England,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30087,2006-06-25,England,Ecuador,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30089,2006-06-26,Australia,Italy,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30089,2006-06-26,Italy,Australia,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30091,2006-06-26,Switzerland,Ukraine,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30091,2006-06-26,Ukraine,Switzerland,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30092,2006-06-27,Brazil,Ghana,FIFA World Cup,World Cup (final tournament),home,True,3,0,True,2006,2006,3,win,True,False,False,3,True
+30092,2006-06-27,Ghana,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,3,True,2006,2006,-3,loss,False,False,True,0,False
+30093,2006-06-27,France,Spain,FIFA World Cup,World Cup (final tournament),away,True,3,1,True,2006,2006,2,win,True,False,False,3,False
+30093,2006-06-27,Spain,France,FIFA World Cup,World Cup (final tournament),home,True,1,3,True,2006,2006,-2,loss,False,False,True,0,False
+30095,2006-06-30,Argentina,Germany,FIFA World Cup,World Cup (final tournament),away,False,1,1,True,2006,2006,0,draw,False,True,False,1,False
+30095,2006-06-30,Germany,Argentina,FIFA World Cup,World Cup (final tournament),home,False,1,1,True,2006,2006,0,draw,False,True,False,1,False
+30096,2006-06-30,Italy,Ukraine,FIFA World Cup,World Cup (final tournament),home,True,3,0,True,2006,2006,3,win,True,False,False,3,True
+30096,2006-06-30,Ukraine,Italy,FIFA World Cup,World Cup (final tournament),away,True,0,3,True,2006,2006,-3,loss,False,False,True,0,False
+30098,2006-07-01,Brazil,France,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30098,2006-07-01,France,Brazil,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30099,2006-07-01,England,Portugal,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30099,2006-07-01,Portugal,England,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2006,2006,0,draw,False,True,False,1,False
+30101,2006-07-04,Germany,Italy,FIFA World Cup,World Cup (final tournament),home,False,0,2,True,2006,2006,-2,loss,False,False,True,0,False
+30101,2006-07-04,Italy,Germany,FIFA World Cup,World Cup (final tournament),away,False,2,0,True,2006,2006,2,win,True,False,False,3,False
+30102,2006-07-05,France,Portugal,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2006,2006,1,win,True,False,False,3,False
+30102,2006-07-05,Portugal,France,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2006,2006,-1,loss,False,False,True,0,False
+30105,2006-07-08,Germany,Portugal,FIFA World Cup,World Cup (final tournament),home,False,3,1,True,2006,2006,2,win,True,False,False,3,False
+30105,2006-07-08,Portugal,Germany,FIFA World Cup,World Cup (final tournament),away,False,1,3,True,2006,2006,-2,loss,False,False,True,0,False
+30107,2006-07-09,France,Italy,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2006,2006,0,draw,False,True,False,1,False
+30107,2006-07-09,Italy,France,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2006,2006,0,draw,False,True,False,1,False
+33859,2010-06-11,Mexico,South Africa,FIFA World Cup,World Cup (final tournament),away,False,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33859,2010-06-11,South Africa,Mexico,FIFA World Cup,World Cup (final tournament),home,False,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33860,2010-06-11,France,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33860,2010-06-11,Uruguay,France,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33861,2010-06-12,Greece,South Korea,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2010,2010,-2,loss,False,False,True,0,False
+33861,2010-06-12,South Korea,Greece,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2010,2010,2,win,True,False,False,3,False
+33862,2010-06-12,Argentina,Nigeria,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33862,2010-06-12,Nigeria,Argentina,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33863,2010-06-12,England,United States,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33863,2010-06-12,United States,England,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33864,2010-06-13,Ghana,Serbia,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33864,2010-06-13,Serbia,Ghana,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33865,2010-06-13,Australia,Germany,FIFA World Cup,World Cup (final tournament),away,True,0,4,True,2010,2010,-4,loss,False,False,True,0,False
+33865,2010-06-13,Germany,Australia,FIFA World Cup,World Cup (final tournament),home,True,4,0,True,2010,2010,4,win,True,False,False,3,True
+33866,2010-06-13,Algeria,Slovenia,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33866,2010-06-13,Slovenia,Algeria,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33867,2010-06-14,Italy,Paraguay,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33867,2010-06-14,Paraguay,Italy,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33868,2010-06-14,Cameroon,Japan,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33868,2010-06-14,Japan,Cameroon,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33869,2010-06-14,Denmark,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2010,2010,-2,loss,False,False,True,0,False
+33869,2010-06-14,Netherlands,Denmark,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2010,2010,2,win,True,False,False,3,False
+33870,2010-06-15,Brazil,North Korea,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2010,2010,1,win,True,False,False,3,False
+33870,2010-06-15,North Korea,Brazil,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33871,2010-06-15,Ivory Coast,Portugal,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33871,2010-06-15,Portugal,Ivory Coast,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33872,2010-06-15,New Zealand,Slovakia,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33872,2010-06-15,Slovakia,New Zealand,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33873,2010-06-16,Chile,Honduras,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33873,2010-06-16,Honduras,Chile,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33874,2010-06-16,South Africa,Uruguay,FIFA World Cup,World Cup (final tournament),home,False,0,3,True,2010,2010,-3,loss,False,False,True,0,False
+33874,2010-06-16,Uruguay,South Africa,FIFA World Cup,World Cup (final tournament),away,False,3,0,True,2010,2010,3,win,True,False,False,3,True
+33875,2010-06-16,Spain,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33875,2010-06-16,Switzerland,Spain,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33876,2010-06-17,France,Mexico,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2010,2010,-2,loss,False,False,True,0,False
+33876,2010-06-17,Mexico,France,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2010,2010,2,win,True,False,False,3,False
+33877,2010-06-17,Greece,Nigeria,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2010,2010,1,win,True,False,False,3,False
+33877,2010-06-17,Nigeria,Greece,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33878,2010-06-17,Argentina,South Korea,FIFA World Cup,World Cup (final tournament),home,True,4,1,True,2010,2010,3,win,True,False,False,3,True
+33878,2010-06-17,South Korea,Argentina,FIFA World Cup,World Cup (final tournament),away,True,1,4,True,2010,2010,-3,loss,False,False,True,0,False
+33879,2010-06-18,Algeria,England,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33879,2010-06-18,England,Algeria,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33880,2010-06-18,Germany,Serbia,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33880,2010-06-18,Serbia,Germany,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33882,2010-06-18,Slovenia,United States,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2010,2010,0,draw,False,True,False,1,False
+33882,2010-06-18,United States,Slovenia,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2010,2010,0,draw,False,True,False,1,False
+33883,2010-06-19,Cameroon,Denmark,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33883,2010-06-19,Denmark,Cameroon,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2010,2010,1,win,True,False,False,3,False
+33885,2010-06-19,Australia,Ghana,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33885,2010-06-19,Ghana,Australia,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33886,2010-06-19,Japan,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33886,2010-06-19,Netherlands,Japan,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33890,2010-06-20,Paraguay,Slovakia,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2010,2010,2,win,True,False,False,3,False
+33890,2010-06-20,Slovakia,Paraguay,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2010,2010,-2,loss,False,False,True,0,False
+33891,2010-06-20,Brazil,Ivory Coast,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2010,2010,2,win,True,False,False,3,False
+33891,2010-06-20,Ivory Coast,Brazil,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2010,2010,-2,loss,False,False,True,0,False
+33892,2010-06-20,Italy,New Zealand,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33892,2010-06-20,New Zealand,Italy,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33894,2010-06-21,Chile,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33894,2010-06-21,Switzerland,Chile,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33895,2010-06-21,North Korea,Portugal,FIFA World Cup,World Cup (final tournament),away,True,0,7,True,2010,2010,-7,loss,False,False,True,0,False
+33895,2010-06-21,Portugal,North Korea,FIFA World Cup,World Cup (final tournament),home,True,7,0,True,2010,2010,7,win,True,False,False,3,True
+33896,2010-06-21,Honduras,Spain,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2010,2010,-2,loss,False,False,True,0,False
+33896,2010-06-21,Spain,Honduras,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2010,2010,2,win,True,False,False,3,False
+33897,2010-06-22,Argentina,Greece,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2010,2010,2,win,True,False,False,3,False
+33897,2010-06-22,Greece,Argentina,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2010,2010,-2,loss,False,False,True,0,False
+33898,2010-06-22,Mexico,Uruguay,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33898,2010-06-22,Uruguay,Mexico,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33899,2010-06-22,Nigeria,South Korea,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2010,2010,0,draw,False,True,False,1,False
+33899,2010-06-22,South Korea,Nigeria,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2010,2010,0,draw,False,True,False,1,False
+33900,2010-06-22,France,South Africa,FIFA World Cup,World Cup (final tournament),away,False,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33900,2010-06-22,South Africa,France,FIFA World Cup,World Cup (final tournament),home,False,2,1,True,2010,2010,1,win,True,False,False,3,False
+33901,2010-06-23,Algeria,United States,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33901,2010-06-23,United States,Algeria,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33902,2010-06-23,England,Slovenia,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33902,2010-06-23,Slovenia,England,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33903,2010-06-23,Australia,Serbia,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2010,2010,1,win,True,False,False,3,False
+33903,2010-06-23,Serbia,Australia,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33904,2010-06-23,Germany,Ghana,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33904,2010-06-23,Ghana,Germany,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33905,2010-06-24,Cameroon,Netherlands,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33905,2010-06-24,Netherlands,Cameroon,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2010,2010,1,win,True,False,False,3,False
+33906,2010-06-24,Denmark,Japan,FIFA World Cup,World Cup (final tournament),home,True,1,3,True,2010,2010,-2,loss,False,False,True,0,False
+33906,2010-06-24,Japan,Denmark,FIFA World Cup,World Cup (final tournament),away,True,3,1,True,2010,2010,2,win,True,False,False,3,False
+33907,2010-06-24,New Zealand,Paraguay,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33907,2010-06-24,Paraguay,New Zealand,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33908,2010-06-24,Italy,Slovakia,FIFA World Cup,World Cup (final tournament),away,True,2,3,True,2010,2010,-1,loss,False,False,True,0,False
+33908,2010-06-24,Slovakia,Italy,FIFA World Cup,World Cup (final tournament),home,True,3,2,True,2010,2010,1,win,True,False,False,3,False
+33909,2010-06-25,Chile,Spain,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33909,2010-06-25,Spain,Chile,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2010,2010,1,win,True,False,False,3,False
+33910,2010-06-25,Ivory Coast,North Korea,FIFA World Cup,World Cup (final tournament),away,True,3,0,True,2010,2010,3,win,True,False,False,3,True
+33910,2010-06-25,North Korea,Ivory Coast,FIFA World Cup,World Cup (final tournament),home,True,0,3,True,2010,2010,-3,loss,False,False,True,0,False
+33911,2010-06-25,Brazil,Portugal,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33911,2010-06-25,Portugal,Brazil,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33912,2010-06-25,Honduras,Switzerland,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33912,2010-06-25,Switzerland,Honduras,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33913,2010-06-26,Ghana,United States,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2010,2010,1,win,True,False,False,3,False
+33913,2010-06-26,United States,Ghana,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33914,2010-06-26,South Korea,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33914,2010-06-26,Uruguay,South Korea,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2010,2010,1,win,True,False,False,3,False
+33916,2010-06-27,Argentina,Mexico,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2010,2010,2,win,True,False,False,3,False
+33916,2010-06-27,Mexico,Argentina,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2010,2010,-2,loss,False,False,True,0,False
+33917,2010-06-27,England,Germany,FIFA World Cup,World Cup (final tournament),away,True,1,4,True,2010,2010,-3,loss,False,False,True,0,False
+33917,2010-06-27,Germany,England,FIFA World Cup,World Cup (final tournament),home,True,4,1,True,2010,2010,3,win,True,False,False,3,True
+33918,2010-06-28,Brazil,Chile,FIFA World Cup,World Cup (final tournament),home,True,3,0,True,2010,2010,3,win,True,False,False,3,True
+33918,2010-06-28,Chile,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,3,True,2010,2010,-3,loss,False,False,True,0,False
+33919,2010-06-28,Netherlands,Slovakia,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2010,2010,1,win,True,False,False,3,False
+33919,2010-06-28,Slovakia,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33920,2010-06-29,Japan,Paraguay,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33920,2010-06-29,Paraguay,Japan,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2010,2010,0,draw,False,True,False,1,False
+33921,2010-06-29,Portugal,Spain,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33921,2010-06-29,Spain,Portugal,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33924,2010-07-02,Ghana,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33924,2010-07-02,Uruguay,Ghana,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2010,2010,0,draw,False,True,False,1,False
+33925,2010-07-02,Brazil,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2010,2010,-1,loss,False,False,True,0,False
+33925,2010-07-02,Netherlands,Brazil,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2010,2010,1,win,True,False,False,3,False
+33927,2010-07-03,Argentina,Germany,FIFA World Cup,World Cup (final tournament),home,True,0,4,True,2010,2010,-4,loss,False,False,True,0,False
+33927,2010-07-03,Germany,Argentina,FIFA World Cup,World Cup (final tournament),away,True,4,0,True,2010,2010,4,win,True,False,False,3,True
+33928,2010-07-03,Paraguay,Spain,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33928,2010-07-03,Spain,Paraguay,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33929,2010-07-06,Netherlands,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,3,2,True,2010,2010,1,win,True,False,False,3,False
+33929,2010-07-06,Uruguay,Netherlands,FIFA World Cup,World Cup (final tournament),home,True,2,3,True,2010,2010,-1,loss,False,False,True,0,False
+33930,2010-07-07,Germany,Spain,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33930,2010-07-07,Spain,Germany,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+33933,2010-07-10,Germany,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,3,2,True,2010,2010,1,win,True,False,False,3,False
+33933,2010-07-10,Uruguay,Germany,FIFA World Cup,World Cup (final tournament),home,True,2,3,True,2010,2010,-1,loss,False,False,True,0,False
+33934,2010-07-11,Netherlands,Spain,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2010,2010,-1,loss,False,False,True,0,False
+33934,2010-07-11,Spain,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2010,2010,1,win,True,False,False,3,False
+37828,2014-06-12,Brazil,Croatia,FIFA World Cup,World Cup (final tournament),home,False,3,1,True,2014,2014,2,win,True,False,False,3,False
+37828,2014-06-12,Croatia,Brazil,FIFA World Cup,World Cup (final tournament),away,False,1,3,True,2014,2014,-2,loss,False,False,True,0,False
+37829,2014-06-13,Netherlands,Spain,FIFA World Cup,World Cup (final tournament),away,True,5,1,True,2014,2014,4,win,True,False,False,3,True
+37829,2014-06-13,Spain,Netherlands,FIFA World Cup,World Cup (final tournament),home,True,1,5,True,2014,2014,-4,loss,False,False,True,0,False
+37830,2014-06-13,Australia,Chile,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2014,2014,-2,loss,False,False,True,0,False
+37830,2014-06-13,Chile,Australia,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2014,2014,2,win,True,False,False,3,False
+37831,2014-06-13,Cameroon,Mexico,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37831,2014-06-13,Mexico,Cameroon,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37832,2014-06-14,Colombia,Greece,FIFA World Cup,World Cup (final tournament),home,True,3,0,True,2014,2014,3,win,True,False,False,3,True
+37832,2014-06-14,Greece,Colombia,FIFA World Cup,World Cup (final tournament),away,True,0,3,True,2014,2014,-3,loss,False,False,True,0,False
+37833,2014-06-14,England,Italy,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37833,2014-06-14,Italy,England,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37834,2014-06-14,Ivory Coast,Japan,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37834,2014-06-14,Japan,Ivory Coast,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37835,2014-06-14,Costa Rica,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,3,1,True,2014,2014,2,win,True,False,False,3,False
+37835,2014-06-14,Uruguay,Costa Rica,FIFA World Cup,World Cup (final tournament),home,True,1,3,True,2014,2014,-2,loss,False,False,True,0,False
+37836,2014-06-15,Argentina,Bosnia and Herzegovina,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37836,2014-06-15,Bosnia and Herzegovina,Argentina,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37837,2014-06-15,France,Honduras,FIFA World Cup,World Cup (final tournament),home,True,3,0,True,2014,2014,3,win,True,False,False,3,True
+37837,2014-06-15,Honduras,France,FIFA World Cup,World Cup (final tournament),away,True,0,3,True,2014,2014,-3,loss,False,False,True,0,False
+37838,2014-06-15,Ecuador,Switzerland,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37838,2014-06-15,Switzerland,Ecuador,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37839,2014-06-16,Iran,Nigeria,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37839,2014-06-16,Nigeria,Iran,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37840,2014-06-16,Ghana,United States,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37840,2014-06-16,United States,Ghana,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37841,2014-06-16,Germany,Portugal,FIFA World Cup,World Cup (final tournament),home,True,4,0,True,2014,2014,4,win,True,False,False,3,True
+37841,2014-06-16,Portugal,Germany,FIFA World Cup,World Cup (final tournament),away,True,0,4,True,2014,2014,-4,loss,False,False,True,0,False
+37842,2014-06-17,Algeria,Belgium,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37842,2014-06-17,Belgium,Algeria,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37843,2014-06-17,Brazil,Mexico,FIFA World Cup,World Cup (final tournament),home,False,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37843,2014-06-17,Mexico,Brazil,FIFA World Cup,World Cup (final tournament),away,False,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37844,2014-06-17,Russia,South Korea,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2014,2014,0,draw,False,True,False,1,False
+37844,2014-06-17,South Korea,Russia,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2014,2014,0,draw,False,True,False,1,False
+37845,2014-06-18,Australia,Netherlands,FIFA World Cup,World Cup (final tournament),home,True,2,3,True,2014,2014,-1,loss,False,False,True,0,False
+37845,2014-06-18,Netherlands,Australia,FIFA World Cup,World Cup (final tournament),away,True,3,2,True,2014,2014,1,win,True,False,False,3,False
+37846,2014-06-18,Cameroon,Croatia,FIFA World Cup,World Cup (final tournament),home,True,0,4,True,2014,2014,-4,loss,False,False,True,0,False
+37846,2014-06-18,Croatia,Cameroon,FIFA World Cup,World Cup (final tournament),away,True,4,0,True,2014,2014,4,win,True,False,False,3,True
+37848,2014-06-18,Chile,Spain,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2014,2014,2,win,True,False,False,3,False
+37848,2014-06-18,Spain,Chile,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2014,2014,-2,loss,False,False,True,0,False
+37849,2014-06-19,England,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37849,2014-06-19,Uruguay,England,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37850,2014-06-19,Greece,Japan,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37850,2014-06-19,Japan,Greece,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37851,2014-06-19,Colombia,Ivory Coast,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37851,2014-06-19,Ivory Coast,Colombia,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37852,2014-06-20,Ecuador,Honduras,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37852,2014-06-20,Honduras,Ecuador,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37853,2014-06-20,Costa Rica,Italy,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37853,2014-06-20,Italy,Costa Rica,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37854,2014-06-20,France,Switzerland,FIFA World Cup,World Cup (final tournament),away,True,5,2,True,2014,2014,3,win,True,False,False,3,True
+37854,2014-06-20,Switzerland,France,FIFA World Cup,World Cup (final tournament),home,True,2,5,True,2014,2014,-3,loss,False,False,True,0,False
+37855,2014-06-21,Argentina,Iran,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37855,2014-06-21,Iran,Argentina,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37856,2014-06-21,Germany,Ghana,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2014,2014,0,draw,False,True,False,1,False
+37856,2014-06-21,Ghana,Germany,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2014,2014,0,draw,False,True,False,1,False
+37858,2014-06-21,Bosnia and Herzegovina,Nigeria,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37858,2014-06-21,Nigeria,Bosnia and Herzegovina,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37859,2014-06-22,Portugal,United States,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2014,2014,0,draw,False,True,False,1,False
+37859,2014-06-22,United States,Portugal,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2014,2014,0,draw,False,True,False,1,False
+37860,2014-06-22,Algeria,South Korea,FIFA World Cup,World Cup (final tournament),away,True,4,2,True,2014,2014,2,win,True,False,False,3,False
+37860,2014-06-22,South Korea,Algeria,FIFA World Cup,World Cup (final tournament),home,True,2,4,True,2014,2014,-2,loss,False,False,True,0,False
+37862,2014-06-22,Belgium,Russia,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37862,2014-06-22,Russia,Belgium,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37863,2014-06-23,Australia,Spain,FIFA World Cup,World Cup (final tournament),home,True,0,3,True,2014,2014,-3,loss,False,False,True,0,False
+37863,2014-06-23,Spain,Australia,FIFA World Cup,World Cup (final tournament),away,True,3,0,True,2014,2014,3,win,True,False,False,3,True
+37864,2014-06-23,Brazil,Cameroon,FIFA World Cup,World Cup (final tournament),home,False,4,1,True,2014,2014,3,win,True,False,False,3,True
+37864,2014-06-23,Cameroon,Brazil,FIFA World Cup,World Cup (final tournament),away,False,1,4,True,2014,2014,-3,loss,False,False,True,0,False
+37865,2014-06-23,Croatia,Mexico,FIFA World Cup,World Cup (final tournament),home,True,1,3,True,2014,2014,-2,loss,False,False,True,0,False
+37865,2014-06-23,Mexico,Croatia,FIFA World Cup,World Cup (final tournament),away,True,3,1,True,2014,2014,2,win,True,False,False,3,False
+37866,2014-06-23,Chile,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2014,2014,-2,loss,False,False,True,0,False
+37866,2014-06-23,Netherlands,Chile,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2014,2014,2,win,True,False,False,3,False
+37867,2014-06-24,Costa Rica,England,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37867,2014-06-24,England,Costa Rica,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37868,2014-06-24,Greece,Ivory Coast,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37868,2014-06-24,Ivory Coast,Greece,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37869,2014-06-24,Italy,Uruguay,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37869,2014-06-24,Uruguay,Italy,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37870,2014-06-24,Colombia,Japan,FIFA World Cup,World Cup (final tournament),away,True,4,1,True,2014,2014,3,win,True,False,False,3,True
+37870,2014-06-24,Japan,Colombia,FIFA World Cup,World Cup (final tournament),home,True,1,4,True,2014,2014,-3,loss,False,False,True,0,False
+37872,2014-06-25,Honduras,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,0,3,True,2014,2014,-3,loss,False,False,True,0,False
+37872,2014-06-25,Switzerland,Honduras,FIFA World Cup,World Cup (final tournament),away,True,3,0,True,2014,2014,3,win,True,False,False,3,True
+37873,2014-06-25,Argentina,Nigeria,FIFA World Cup,World Cup (final tournament),away,True,3,2,True,2014,2014,1,win,True,False,False,3,False
+37873,2014-06-25,Nigeria,Argentina,FIFA World Cup,World Cup (final tournament),home,True,2,3,True,2014,2014,-1,loss,False,False,True,0,False
+37874,2014-06-25,Bosnia and Herzegovina,Iran,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2014,2014,2,win,True,False,False,3,False
+37874,2014-06-25,Iran,Bosnia and Herzegovina,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2014,2014,-2,loss,False,False,True,0,False
+37875,2014-06-25,Ecuador,France,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37875,2014-06-25,France,Ecuador,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37876,2014-06-26,Algeria,Russia,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2014,2014,0,draw,False,True,False,1,False
+37876,2014-06-26,Russia,Algeria,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2014,2014,0,draw,False,True,False,1,False
+37877,2014-06-26,Belgium,South Korea,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37877,2014-06-26,South Korea,Belgium,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37878,2014-06-26,Ghana,Portugal,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37878,2014-06-26,Portugal,Ghana,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37879,2014-06-26,Germany,United States,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37879,2014-06-26,United States,Germany,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37880,2014-06-28,Brazil,Chile,FIFA World Cup,World Cup (final tournament),home,False,1,1,True,2014,2014,0,draw,False,True,False,1,False
+37880,2014-06-28,Chile,Brazil,FIFA World Cup,World Cup (final tournament),away,False,1,1,True,2014,2014,0,draw,False,True,False,1,False
+37881,2014-06-28,Colombia,Uruguay,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2014,2014,2,win,True,False,False,3,False
+37881,2014-06-28,Uruguay,Colombia,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2014,2014,-2,loss,False,False,True,0,False
+37882,2014-06-29,Costa Rica,Greece,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2014,2014,0,draw,False,True,False,1,False
+37882,2014-06-29,Greece,Costa Rica,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2014,2014,0,draw,False,True,False,1,False
+37883,2014-06-29,Mexico,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37883,2014-06-29,Netherlands,Mexico,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37885,2014-06-30,France,Nigeria,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2014,2014,2,win,True,False,False,3,False
+37885,2014-06-30,Nigeria,France,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2014,2014,-2,loss,False,False,True,0,False
+37886,2014-06-30,Algeria,Germany,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37886,2014-06-30,Germany,Algeria,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37887,2014-07-01,Argentina,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37887,2014-07-01,Switzerland,Argentina,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37888,2014-07-01,Belgium,United States,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2014,2014,1,win,True,False,False,3,False
+37888,2014-07-01,United States,Belgium,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37890,2014-07-04,Brazil,Colombia,FIFA World Cup,World Cup (final tournament),home,False,2,1,True,2014,2014,1,win,True,False,False,3,False
+37890,2014-07-04,Colombia,Brazil,FIFA World Cup,World Cup (final tournament),away,False,1,2,True,2014,2014,-1,loss,False,False,True,0,False
+37891,2014-07-04,France,Germany,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37891,2014-07-04,Germany,France,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37892,2014-07-05,Argentina,Belgium,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+37892,2014-07-05,Belgium,Argentina,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37893,2014-07-05,Costa Rica,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37893,2014-07-05,Netherlands,Costa Rica,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37895,2014-07-08,Brazil,Germany,FIFA World Cup,World Cup (final tournament),home,False,1,7,True,2014,2014,-6,loss,False,False,True,0,False
+37895,2014-07-08,Germany,Brazil,FIFA World Cup,World Cup (final tournament),away,False,7,1,True,2014,2014,6,win,True,False,False,3,True
+37896,2014-07-09,Argentina,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37896,2014-07-09,Netherlands,Argentina,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2014,2014,0,draw,False,True,False,1,False
+37898,2014-07-12,Brazil,Netherlands,FIFA World Cup,World Cup (final tournament),home,False,0,3,True,2014,2014,-3,loss,False,False,True,0,False
+37898,2014-07-12,Netherlands,Brazil,FIFA World Cup,World Cup (final tournament),away,False,3,0,True,2014,2014,3,win,True,False,False,3,True
+37900,2014-07-13,Argentina,Germany,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2014,2014,-1,loss,False,False,True,0,False
+37900,2014-07-13,Germany,Argentina,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2014,2014,1,win,True,False,False,3,False
+41606,2018-06-14,Russia,Saudi Arabia,FIFA World Cup,World Cup (final tournament),home,False,5,0,True,2018,2018,5,win,True,False,False,3,True
+41606,2018-06-14,Saudi Arabia,Russia,FIFA World Cup,World Cup (final tournament),away,False,0,5,True,2018,2018,-5,loss,False,False,True,0,False
+41607,2018-06-15,Egypt,Uruguay,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41607,2018-06-15,Uruguay,Egypt,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41608,2018-06-15,Iran,Morocco,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41608,2018-06-15,Morocco,Iran,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41609,2018-06-15,Portugal,Spain,FIFA World Cup,World Cup (final tournament),home,True,3,3,True,2018,2018,0,draw,False,True,False,1,False
+41609,2018-06-15,Spain,Portugal,FIFA World Cup,World Cup (final tournament),away,True,3,3,True,2018,2018,0,draw,False,True,False,1,False
+41610,2018-06-16,Australia,France,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41610,2018-06-16,France,Australia,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41611,2018-06-16,Argentina,Iceland,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41611,2018-06-16,Iceland,Argentina,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41612,2018-06-16,Denmark,Peru,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41612,2018-06-16,Peru,Denmark,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41613,2018-06-16,Croatia,Nigeria,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2018,2018,2,win,True,False,False,3,False
+41613,2018-06-16,Nigeria,Croatia,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2018,2018,-2,loss,False,False,True,0,False
+41614,2018-06-17,Costa Rica,Serbia,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41614,2018-06-17,Serbia,Costa Rica,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41615,2018-06-17,Germany,Mexico,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41615,2018-06-17,Mexico,Germany,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41616,2018-06-17,Brazil,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41616,2018-06-17,Switzerland,Brazil,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41617,2018-06-18,England,Tunisia,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41617,2018-06-18,Tunisia,England,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41618,2018-06-18,South Korea,Sweden,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41618,2018-06-18,Sweden,South Korea,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41619,2018-06-18,Belgium,Panama,FIFA World Cup,World Cup (final tournament),home,True,3,0,True,2018,2018,3,win,True,False,False,3,True
+41619,2018-06-18,Panama,Belgium,FIFA World Cup,World Cup (final tournament),away,True,0,3,True,2018,2018,-3,loss,False,False,True,0,False
+41620,2018-06-19,Colombia,Japan,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41620,2018-06-19,Japan,Colombia,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41621,2018-06-19,Poland,Senegal,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41621,2018-06-19,Senegal,Poland,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41622,2018-06-19,Egypt,Russia,FIFA World Cup,World Cup (final tournament),away,False,1,3,True,2018,2018,-2,loss,False,False,True,0,False
+41622,2018-06-19,Russia,Egypt,FIFA World Cup,World Cup (final tournament),home,False,3,1,True,2018,2018,2,win,True,False,False,3,False
+41623,2018-06-20,Morocco,Portugal,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41623,2018-06-20,Portugal,Morocco,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41624,2018-06-20,Saudi Arabia,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41624,2018-06-20,Uruguay,Saudi Arabia,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41625,2018-06-20,Iran,Spain,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41625,2018-06-20,Spain,Iran,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41626,2018-06-21,France,Peru,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41626,2018-06-21,Peru,France,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41627,2018-06-21,Argentina,Croatia,FIFA World Cup,World Cup (final tournament),home,True,0,3,True,2018,2018,-3,loss,False,False,True,0,False
+41627,2018-06-21,Croatia,Argentina,FIFA World Cup,World Cup (final tournament),away,True,3,0,True,2018,2018,3,win,True,False,False,3,True
+41628,2018-06-21,Australia,Denmark,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41628,2018-06-21,Denmark,Australia,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41629,2018-06-22,Brazil,Costa Rica,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2018,2018,2,win,True,False,False,3,False
+41629,2018-06-22,Costa Rica,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2018,2018,-2,loss,False,False,True,0,False
+41630,2018-06-22,Iceland,Nigeria,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2018,2018,-2,loss,False,False,True,0,False
+41630,2018-06-22,Nigeria,Iceland,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2018,2018,2,win,True,False,False,3,False
+41631,2018-06-22,Serbia,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41631,2018-06-22,Switzerland,Serbia,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41632,2018-06-23,Belgium,Tunisia,FIFA World Cup,World Cup (final tournament),home,True,5,2,True,2018,2018,3,win,True,False,False,3,True
+41632,2018-06-23,Tunisia,Belgium,FIFA World Cup,World Cup (final tournament),away,True,2,5,True,2018,2018,-3,loss,False,False,True,0,False
+41633,2018-06-23,Mexico,South Korea,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41633,2018-06-23,South Korea,Mexico,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41634,2018-06-23,Germany,Sweden,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41634,2018-06-23,Sweden,Germany,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41635,2018-06-24,Colombia,Poland,FIFA World Cup,World Cup (final tournament),away,True,3,0,True,2018,2018,3,win,True,False,False,3,True
+41635,2018-06-24,Poland,Colombia,FIFA World Cup,World Cup (final tournament),home,True,0,3,True,2018,2018,-3,loss,False,False,True,0,False
+41636,2018-06-24,England,Panama,FIFA World Cup,World Cup (final tournament),home,True,6,1,True,2018,2018,5,win,True,False,False,3,True
+41636,2018-06-24,Panama,England,FIFA World Cup,World Cup (final tournament),away,True,1,6,True,2018,2018,-5,loss,False,False,True,0,False
+41637,2018-06-24,Japan,Senegal,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2018,2018,0,draw,False,True,False,1,False
+41637,2018-06-24,Senegal,Japan,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2018,2018,0,draw,False,True,False,1,False
+41638,2018-06-25,Morocco,Spain,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2018,2018,0,draw,False,True,False,1,False
+41638,2018-06-25,Spain,Morocco,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2018,2018,0,draw,False,True,False,1,False
+41639,2018-06-25,Iran,Portugal,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41639,2018-06-25,Portugal,Iran,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41640,2018-06-25,Russia,Uruguay,FIFA World Cup,World Cup (final tournament),home,False,0,3,True,2018,2018,-3,loss,False,False,True,0,False
+41640,2018-06-25,Uruguay,Russia,FIFA World Cup,World Cup (final tournament),away,False,3,0,True,2018,2018,3,win,True,False,False,3,True
+41641,2018-06-25,Egypt,Saudi Arabia,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41641,2018-06-25,Saudi Arabia,Egypt,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41642,2018-06-26,Australia,Peru,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2018,2018,-2,loss,False,False,True,0,False
+41642,2018-06-26,Peru,Australia,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2018,2018,2,win,True,False,False,3,False
+41643,2018-06-26,Denmark,France,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2018,2018,0,draw,False,True,False,1,False
+41643,2018-06-26,France,Denmark,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2018,2018,0,draw,False,True,False,1,False
+41644,2018-06-26,Argentina,Nigeria,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41644,2018-06-26,Nigeria,Argentina,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41645,2018-06-26,Croatia,Iceland,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41645,2018-06-26,Iceland,Croatia,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41646,2018-06-27,Germany,South Korea,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2018,2018,-2,loss,False,False,True,0,False
+41646,2018-06-27,South Korea,Germany,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2018,2018,2,win,True,False,False,3,False
+41647,2018-06-27,Mexico,Sweden,FIFA World Cup,World Cup (final tournament),home,True,0,3,True,2018,2018,-3,loss,False,False,True,0,False
+41647,2018-06-27,Sweden,Mexico,FIFA World Cup,World Cup (final tournament),away,True,3,0,True,2018,2018,3,win,True,False,False,3,True
+41648,2018-06-27,Brazil,Serbia,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2018,2018,2,win,True,False,False,3,False
+41648,2018-06-27,Serbia,Brazil,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2018,2018,-2,loss,False,False,True,0,False
+41649,2018-06-27,Costa Rica,Switzerland,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2018,2018,0,draw,False,True,False,1,False
+41649,2018-06-27,Switzerland,Costa Rica,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2018,2018,0,draw,False,True,False,1,False
+41650,2018-06-28,Belgium,England,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41650,2018-06-28,England,Belgium,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41651,2018-06-28,Panama,Tunisia,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41651,2018-06-28,Tunisia,Panama,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41652,2018-06-28,Colombia,Senegal,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41652,2018-06-28,Senegal,Colombia,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41653,2018-06-28,Japan,Poland,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41653,2018-06-28,Poland,Japan,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41654,2018-06-30,Argentina,France,FIFA World Cup,World Cup (final tournament),away,True,3,4,True,2018,2018,-1,loss,False,False,True,0,False
+41654,2018-06-30,France,Argentina,FIFA World Cup,World Cup (final tournament),home,True,4,3,True,2018,2018,1,win,True,False,False,3,False
+41655,2018-06-30,Portugal,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41655,2018-06-30,Uruguay,Portugal,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41656,2018-07-01,Russia,Spain,FIFA World Cup,World Cup (final tournament),home,False,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41656,2018-07-01,Spain,Russia,FIFA World Cup,World Cup (final tournament),away,False,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41657,2018-07-01,Croatia,Denmark,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41657,2018-07-01,Denmark,Croatia,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41658,2018-07-02,Brazil,Mexico,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2018,2018,2,win,True,False,False,3,False
+41658,2018-07-02,Mexico,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2018,2018,-2,loss,False,False,True,0,False
+41659,2018-07-02,Belgium,Japan,FIFA World Cup,World Cup (final tournament),home,True,3,2,True,2018,2018,1,win,True,False,False,3,False
+41659,2018-07-02,Japan,Belgium,FIFA World Cup,World Cup (final tournament),away,True,2,3,True,2018,2018,-1,loss,False,False,True,0,False
+41660,2018-07-03,Colombia,England,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41660,2018-07-03,England,Colombia,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2018,2018,0,draw,False,True,False,1,False
+41661,2018-07-03,Sweden,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41661,2018-07-03,Switzerland,Sweden,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41663,2018-07-06,Belgium,Brazil,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41663,2018-07-06,Brazil,Belgium,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41664,2018-07-06,France,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2018,2018,2,win,True,False,False,3,False
+41664,2018-07-06,Uruguay,France,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2018,2018,-2,loss,False,False,True,0,False
+41665,2018-07-07,England,Sweden,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2018,2018,2,win,True,False,False,3,False
+41665,2018-07-07,Sweden,England,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2018,2018,-2,loss,False,False,True,0,False
+41666,2018-07-07,Croatia,Russia,FIFA World Cup,World Cup (final tournament),away,False,2,2,True,2018,2018,0,draw,False,True,False,1,False
+41666,2018-07-07,Russia,Croatia,FIFA World Cup,World Cup (final tournament),home,False,2,2,True,2018,2018,0,draw,False,True,False,1,False
+41667,2018-07-10,Belgium,France,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2018,2018,-1,loss,False,False,True,0,False
+41667,2018-07-10,France,Belgium,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2018,2018,1,win,True,False,False,3,False
+41668,2018-07-11,Croatia,England,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2018,2018,1,win,True,False,False,3,False
+41668,2018-07-11,England,Croatia,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2018,2018,-1,loss,False,False,True,0,False
+41669,2018-07-14,Belgium,England,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2018,2018,2,win,True,False,False,3,False
+41669,2018-07-14,England,Belgium,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2018,2018,-2,loss,False,False,True,0,False
+41670,2018-07-15,Croatia,France,FIFA World Cup,World Cup (final tournament),away,True,2,4,True,2018,2018,-2,loss,False,False,True,0,False
+41670,2018-07-15,France,Croatia,FIFA World Cup,World Cup (final tournament),home,True,4,2,True,2018,2018,2,win,True,False,False,3,False
+45674,2022-11-20,Ecuador,Qatar,FIFA World Cup,World Cup (final tournament),away,False,2,0,True,2022,2022,2,win,True,False,False,3,False
+45674,2022-11-20,Qatar,Ecuador,FIFA World Cup,World Cup (final tournament),home,False,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45682,2022-11-21,United States,Wales,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2022,2022,0,draw,False,True,False,1,False
+45682,2022-11-21,Wales,United States,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2022,2022,0,draw,False,True,False,1,False
+45683,2022-11-21,England,Iran,FIFA World Cup,World Cup (final tournament),home,True,6,2,True,2022,2022,4,win,True,False,False,3,True
+45683,2022-11-21,Iran,England,FIFA World Cup,World Cup (final tournament),away,True,2,6,True,2022,2022,-4,loss,False,False,True,0,False
+45684,2022-11-21,Netherlands,Senegal,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2022,2022,2,win,True,False,False,3,False
+45684,2022-11-21,Senegal,Netherlands,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45685,2022-11-22,Argentina,Saudi Arabia,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45685,2022-11-22,Saudi Arabia,Argentina,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45686,2022-11-22,Mexico,Poland,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45686,2022-11-22,Poland,Mexico,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45687,2022-11-22,Denmark,Tunisia,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45687,2022-11-22,Tunisia,Denmark,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45688,2022-11-22,Australia,France,FIFA World Cup,World Cup (final tournament),away,True,1,4,True,2022,2022,-3,loss,False,False,True,0,False
+45688,2022-11-22,France,Australia,FIFA World Cup,World Cup (final tournament),home,True,4,1,True,2022,2022,3,win,True,False,False,3,True
+45689,2022-11-23,Germany,Japan,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45689,2022-11-23,Japan,Germany,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45690,2022-11-23,Costa Rica,Spain,FIFA World Cup,World Cup (final tournament),away,True,0,7,True,2022,2022,-7,loss,False,False,True,0,False
+45690,2022-11-23,Spain,Costa Rica,FIFA World Cup,World Cup (final tournament),home,True,7,0,True,2022,2022,7,win,True,False,False,3,True
+45691,2022-11-23,Croatia,Morocco,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45691,2022-11-23,Morocco,Croatia,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45692,2022-11-23,Belgium,Canada,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2022,2022,1,win,True,False,False,3,False
+45692,2022-11-23,Canada,Belgium,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2022,2022,-1,loss,False,False,True,0,False
+45693,2022-11-24,Ghana,Portugal,FIFA World Cup,World Cup (final tournament),away,True,2,3,True,2022,2022,-1,loss,False,False,True,0,False
+45693,2022-11-24,Portugal,Ghana,FIFA World Cup,World Cup (final tournament),home,True,3,2,True,2022,2022,1,win,True,False,False,3,False
+45694,2022-11-24,Cameroon,Switzerland,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2022,2022,-1,loss,False,False,True,0,False
+45694,2022-11-24,Switzerland,Cameroon,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2022,2022,1,win,True,False,False,3,False
+45695,2022-11-24,Brazil,Serbia,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2022,2022,2,win,True,False,False,3,False
+45695,2022-11-24,Serbia,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45696,2022-11-24,South Korea,Uruguay,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45696,2022-11-24,Uruguay,South Korea,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45697,2022-11-25,England,United States,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45697,2022-11-25,United States,England,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45698,2022-11-25,Iran,Wales,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2022,2022,2,win,True,False,False,3,False
+45698,2022-11-25,Wales,Iran,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45699,2022-11-25,Qatar,Senegal,FIFA World Cup,World Cup (final tournament),home,False,1,3,True,2022,2022,-2,loss,False,False,True,0,False
+45699,2022-11-25,Senegal,Qatar,FIFA World Cup,World Cup (final tournament),away,False,3,1,True,2022,2022,2,win,True,False,False,3,False
+45700,2022-11-25,Ecuador,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2022,2022,0,draw,False,True,False,1,False
+45700,2022-11-25,Netherlands,Ecuador,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2022,2022,0,draw,False,True,False,1,False
+45701,2022-11-26,Poland,Saudi Arabia,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2022,2022,2,win,True,False,False,3,False
+45701,2022-11-26,Saudi Arabia,Poland,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45702,2022-11-26,Argentina,Mexico,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2022,2022,2,win,True,False,False,3,False
+45702,2022-11-26,Mexico,Argentina,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45703,2022-11-26,Australia,Tunisia,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2022,2022,1,win,True,False,False,3,False
+45703,2022-11-26,Tunisia,Australia,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2022,2022,-1,loss,False,False,True,0,False
+45704,2022-11-26,Denmark,France,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45704,2022-11-26,France,Denmark,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45705,2022-11-27,Belgium,Morocco,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45705,2022-11-27,Morocco,Belgium,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2022,2022,2,win,True,False,False,3,False
+45706,2022-11-27,Costa Rica,Japan,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2022,2022,1,win,True,False,False,3,False
+45706,2022-11-27,Japan,Costa Rica,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2022,2022,-1,loss,False,False,True,0,False
+45707,2022-11-27,Germany,Spain,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2022,2022,0,draw,False,True,False,1,False
+45707,2022-11-27,Spain,Germany,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2022,2022,0,draw,False,True,False,1,False
+45708,2022-11-27,Canada,Croatia,FIFA World Cup,World Cup (final tournament),away,True,1,4,True,2022,2022,-3,loss,False,False,True,0,False
+45708,2022-11-27,Croatia,Canada,FIFA World Cup,World Cup (final tournament),home,True,4,1,True,2022,2022,3,win,True,False,False,3,True
+45709,2022-11-28,Portugal,Uruguay,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2022,2022,2,win,True,False,False,3,False
+45709,2022-11-28,Uruguay,Portugal,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45710,2022-11-28,Ghana,South Korea,FIFA World Cup,World Cup (final tournament),away,True,3,2,True,2022,2022,1,win,True,False,False,3,False
+45710,2022-11-28,South Korea,Ghana,FIFA World Cup,World Cup (final tournament),home,True,2,3,True,2022,2022,-1,loss,False,False,True,0,False
+45711,2022-11-28,Cameroon,Serbia,FIFA World Cup,World Cup (final tournament),home,True,3,3,True,2022,2022,0,draw,False,True,False,1,False
+45711,2022-11-28,Serbia,Cameroon,FIFA World Cup,World Cup (final tournament),away,True,3,3,True,2022,2022,0,draw,False,True,False,1,False
+45712,2022-11-28,Brazil,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2022,2022,1,win,True,False,False,3,False
+45712,2022-11-28,Switzerland,Brazil,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2022,2022,-1,loss,False,False,True,0,False
+45713,2022-11-29,Ecuador,Senegal,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45713,2022-11-29,Senegal,Ecuador,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45714,2022-11-29,Netherlands,Qatar,FIFA World Cup,World Cup (final tournament),away,False,2,0,True,2022,2022,2,win,True,False,False,3,False
+45714,2022-11-29,Qatar,Netherlands,FIFA World Cup,World Cup (final tournament),home,False,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45715,2022-11-29,England,Wales,FIFA World Cup,World Cup (final tournament),away,True,3,0,True,2022,2022,3,win,True,False,False,3,True
+45715,2022-11-29,Wales,England,FIFA World Cup,World Cup (final tournament),home,True,0,3,True,2022,2022,-3,loss,False,False,True,0,False
+45716,2022-11-29,Iran,United States,FIFA World Cup,World Cup (final tournament),home,True,0,1,True,2022,2022,-1,loss,False,False,True,0,False
+45716,2022-11-29,United States,Iran,FIFA World Cup,World Cup (final tournament),away,True,1,0,True,2022,2022,1,win,True,False,False,3,False
+45717,2022-11-30,Argentina,Poland,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2022,2022,2,win,True,False,False,3,False
+45717,2022-11-30,Poland,Argentina,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45718,2022-11-30,Mexico,Saudi Arabia,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45718,2022-11-30,Saudi Arabia,Mexico,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45719,2022-11-30,Australia,Denmark,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2022,2022,1,win,True,False,False,3,False
+45719,2022-11-30,Denmark,Australia,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2022,2022,-1,loss,False,False,True,0,False
+45720,2022-11-30,France,Tunisia,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2022,2022,-1,loss,False,False,True,0,False
+45720,2022-11-30,Tunisia,France,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2022,2022,1,win,True,False,False,3,False
+45721,2022-12-01,Canada,Morocco,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45721,2022-12-01,Morocco,Canada,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45722,2022-12-01,Belgium,Croatia,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45722,2022-12-01,Croatia,Belgium,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45723,2022-12-01,Japan,Spain,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45723,2022-12-01,Spain,Japan,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45724,2022-12-01,Costa Rica,Germany,FIFA World Cup,World Cup (final tournament),home,True,2,4,True,2022,2022,-2,loss,False,False,True,0,False
+45724,2022-12-01,Germany,Costa Rica,FIFA World Cup,World Cup (final tournament),away,True,4,2,True,2022,2022,2,win,True,False,False,3,False
+45725,2022-12-02,Serbia,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,2,3,True,2022,2022,-1,loss,False,False,True,0,False
+45725,2022-12-02,Switzerland,Serbia,FIFA World Cup,World Cup (final tournament),away,True,3,2,True,2022,2022,1,win,True,False,False,3,False
+45726,2022-12-02,Brazil,Cameroon,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2022,2022,-1,loss,False,False,True,0,False
+45726,2022-12-02,Cameroon,Brazil,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2022,2022,1,win,True,False,False,3,False
+45727,2022-12-02,Ghana,Uruguay,FIFA World Cup,World Cup (final tournament),home,True,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45727,2022-12-02,Uruguay,Ghana,FIFA World Cup,World Cup (final tournament),away,True,2,0,True,2022,2022,2,win,True,False,False,3,False
+45728,2022-12-02,Portugal,South Korea,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45728,2022-12-02,South Korea,Portugal,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45729,2022-12-03,Netherlands,United States,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2022,2022,2,win,True,False,False,3,False
+45729,2022-12-03,United States,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2022,2022,-2,loss,False,False,True,0,False
+45730,2022-12-03,Argentina,Australia,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45730,2022-12-03,Australia,Argentina,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45731,2022-12-04,France,Poland,FIFA World Cup,World Cup (final tournament),home,True,3,1,True,2022,2022,2,win,True,False,False,3,False
+45731,2022-12-04,Poland,France,FIFA World Cup,World Cup (final tournament),away,True,1,3,True,2022,2022,-2,loss,False,False,True,0,False
+45732,2022-12-04,England,Senegal,FIFA World Cup,World Cup (final tournament),home,True,3,0,True,2022,2022,3,win,True,False,False,3,True
+45732,2022-12-04,Senegal,England,FIFA World Cup,World Cup (final tournament),away,True,0,3,True,2022,2022,-3,loss,False,False,True,0,False
+45733,2022-12-05,Brazil,South Korea,FIFA World Cup,World Cup (final tournament),home,True,4,1,True,2022,2022,3,win,True,False,False,3,True
+45733,2022-12-05,South Korea,Brazil,FIFA World Cup,World Cup (final tournament),away,True,1,4,True,2022,2022,-3,loss,False,False,True,0,False
+45734,2022-12-05,Croatia,Japan,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2022,2022,0,draw,False,True,False,1,False
+45734,2022-12-05,Japan,Croatia,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2022,2022,0,draw,False,True,False,1,False
+45735,2022-12-06,Portugal,Switzerland,FIFA World Cup,World Cup (final tournament),home,True,6,1,True,2022,2022,5,win,True,False,False,3,True
+45735,2022-12-06,Switzerland,Portugal,FIFA World Cup,World Cup (final tournament),away,True,1,6,True,2022,2022,-5,loss,False,False,True,0,False
+45736,2022-12-06,Morocco,Spain,FIFA World Cup,World Cup (final tournament),home,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45736,2022-12-06,Spain,Morocco,FIFA World Cup,World Cup (final tournament),away,True,0,0,True,2022,2022,0,draw,False,True,False,1,False
+45737,2022-12-09,Brazil,Croatia,FIFA World Cup,World Cup (final tournament),away,True,1,1,True,2022,2022,0,draw,False,True,False,1,False
+45737,2022-12-09,Croatia,Brazil,FIFA World Cup,World Cup (final tournament),home,True,1,1,True,2022,2022,0,draw,False,True,False,1,False
+45738,2022-12-09,Argentina,Netherlands,FIFA World Cup,World Cup (final tournament),away,True,2,2,True,2022,2022,0,draw,False,True,False,1,False
+45738,2022-12-09,Netherlands,Argentina,FIFA World Cup,World Cup (final tournament),home,True,2,2,True,2022,2022,0,draw,False,True,False,1,False
+45740,2022-12-10,Morocco,Portugal,FIFA World Cup,World Cup (final tournament),home,True,1,0,True,2022,2022,1,win,True,False,False,3,False
+45740,2022-12-10,Portugal,Morocco,FIFA World Cup,World Cup (final tournament),away,True,0,1,True,2022,2022,-1,loss,False,False,True,0,False
+45741,2022-12-10,England,France,FIFA World Cup,World Cup (final tournament),home,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45741,2022-12-10,France,England,FIFA World Cup,World Cup (final tournament),away,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45743,2022-12-13,Argentina,Croatia,FIFA World Cup,World Cup (final tournament),home,True,3,0,True,2022,2022,3,win,True,False,False,3,True
+45743,2022-12-13,Croatia,Argentina,FIFA World Cup,World Cup (final tournament),away,True,0,3,True,2022,2022,-3,loss,False,False,True,0,False
+45744,2022-12-14,France,Morocco,FIFA World Cup,World Cup (final tournament),home,True,2,0,True,2022,2022,2,win,True,False,False,3,False
+45744,2022-12-14,Morocco,France,FIFA World Cup,World Cup (final tournament),away,True,0,2,True,2022,2022,-2,loss,False,False,True,0,False
+45749,2022-12-17,Croatia,Morocco,FIFA World Cup,World Cup (final tournament),home,True,2,1,True,2022,2022,1,win,True,False,False,3,False
+45749,2022-12-17,Morocco,Croatia,FIFA World Cup,World Cup (final tournament),away,True,1,2,True,2022,2022,-1,loss,False,False,True,0,False
+45750,2022-12-18,Argentina,France,FIFA World Cup,World Cup (final tournament),home,True,3,3,True,2022,2022,0,draw,False,True,False,1,False
+45750,2022-12-18,France,Argentina,FIFA World Cup,World Cup (final tournament),away,True,3,3,True,2022,2022,0,draw,False,True,False,1,False

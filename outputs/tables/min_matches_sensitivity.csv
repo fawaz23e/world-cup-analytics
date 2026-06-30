@@ -1,0 +1,7 @@
+min_matches_threshold,n_teams,top_5_teams
+50,231,"Brazil, Spain, Germany, England, Netherlands"
+100,210,"Brazil, Spain, Germany, England, Jersey"
+150,194,"Brazil, Spain, Germany, Jersey, England"
+200,178,"Brazil, Spain, Germany, Jersey, England"
+300,133,"Brazil, Spain, Germany, England, Netherlands"
+400,104,"Brazil, Spain, Germany, England, Netherlands"
